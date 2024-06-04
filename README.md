@@ -1,6 +1,9 @@
-# Basketball Scorecard
-A basketball scorecard, made with HTML, CSS and JS. Each button increments the respective score and the team with more points is highlighted. This is the second application finished at Scrimba's JavaScript course!
-# Technologies used:
+## Basketball Scorecard
+A basketball scorecard, made with HTML, CSS and JS. 
+- Each button increments the respective score and the team with more points is highlighted.
+- There's also a new game buttom that clean the scores and the highlight.
+- This is the second application finished at Scrimba's JavaScript course!
+## Technologies used:
 <div style="display:inline_block">
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
